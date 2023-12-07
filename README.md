@@ -9,6 +9,6 @@ How to stop multiple songs playing wordpress
 راهنمای حل مشکل پخش همزمان موزیک ها توسط کد
 واقعا خیلی آسونه ! 😀
 
-فایل فانکشن functions.php قالب وردپرس خود را ویرایش کنید و کد های codes.php را در آخر این فایل کپی کنید .
+فایل فانکشن functions.php قالب وردپرس خود را ویرایش کنید و کد های [codes.php](https://github.com/mohammadfamo/multiple-songs-playing-wp/blob/main/codes.php) را در آخر این فایل کپی کنید .
 به همین راحتی؛ فقط دقت کنید که قبل از هر کاری از این فایل نسخه پشتیبانی تهیه کنید .
 
